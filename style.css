@@ -1,0 +1,40 @@
+h1{
+    color: red;
+}
+h3{
+    color: orangered;
+}
+#item-li-4{
+    text-decoration: underline;
+    font-style: italic;
+}
+span{
+    font-weight: 900;
+}
+ol li{
+    color: brown;
+    line-height: 30px;
+}
+.item-li-1{
+    text-decoration: line-through;
+}
+.item-li-2{
+    background-color: yellow;
+}
+ul li{
+    letter-spacing: 3px;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    font-weight: 700;
+}
+p{
+    color: red
+}
+a{
+    text-decoration: none;
+    color: brown;
+    font-style: italic;
+    background-color: yellow;
+    font-size: 18px;
+}
